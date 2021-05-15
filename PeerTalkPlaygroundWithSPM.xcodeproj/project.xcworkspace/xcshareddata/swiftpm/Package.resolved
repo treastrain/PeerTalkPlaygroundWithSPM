@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PeerTalk",
+        "repositoryURL": "https://github.com/treastrain/peertalk",
+        "state": {
+          "branch": "swift-package-manager",
+          "revision": "adb78527d8a4c8cfff83181bf5d8d9b3a8669715",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
